@@ -9,7 +9,7 @@ VANTA.DOTS({
     scaleMobile: 1.00,
     color: 0x5f5f5f,
     backgroundAlpha: 0.0,
-    size: 5.10,
+    size: 3.10,
     spacing: 50.00,
     showLines: false
   })    //
